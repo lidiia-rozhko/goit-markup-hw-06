@@ -627,6 +627,8 @@ address {
   color: var(--slate);
 
   width: 288px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1157px) {
